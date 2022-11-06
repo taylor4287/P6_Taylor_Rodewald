@@ -1,0 +1,19 @@
+{
+  "name": "p6-main",
+  "version": "1.0.0",
+  "description": "OpenClassrooms Web Developer path project 6",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taylor4287/P6.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taylor4287/P6/issues"
+  },
+  "homepage": "https://github.com/taylor4287/P6#readme"
+}
